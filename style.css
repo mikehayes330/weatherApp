@@ -1,0 +1,42 @@
+header{
+    background-color:rgb(24, 120, 180);
+    text-align: center;
+    justify-content: center;
+    color: white;
+    
+}
+h1{
+   
+
+}
+body{
+    font-family: 'Questrial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+button {
+    background-color: transparent;
+    border-style: hidden;
+    font-size: larger;
+}
+
+#currentDisplay{
+    background-color: rgb(24, 120, 180, .3);
+    padding: 20;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 2px;
+
+     
+}
+
+#searchDiv{
+    background-color: rgb(24, 120, 180, .3);
+    border-radius: 20px;
+    box-shadow: 0 0 10px 2px;
+    text-align: center;
+
+
+}
+.currentCity{
+   
+}
